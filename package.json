@@ -4,10 +4,11 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"gh-pages -d dist"
   },
   "author": "falguni",
   "license": "ISC",
+  "homepage":"https://github.com/fal30/TechPrint",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
